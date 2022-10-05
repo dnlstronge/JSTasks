@@ -6,3 +6,4 @@ Various functions and Tasks using JS
 3) Create a function which determines number of digits and returns response
 4) Create a program which prints the complete lyrics to 99 bottles of beer
 5) Create an nested array which compares two sets of 'followers'
+6) Whale language converter using loops and arrays
