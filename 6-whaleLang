@@ -1,0 +1,5 @@
+// convert sentence into whale language using arrays and loops
+
+var input = ('phrase');
+var vowels = ['a', 'e', 'i', 'o', 'u'];
+var resultArray = [];
